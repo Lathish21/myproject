@@ -1,2 +1,2 @@
 # myproject
-this is my first project
+IOT is a concept of connecting any device to the internet and to the other devices
